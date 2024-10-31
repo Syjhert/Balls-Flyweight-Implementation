@@ -1,0 +1,12 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="Flyweight-Balls:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/Flyweight_Balls_jar</output-path>
+    <root id="archive" name="Flyweight-Balls.jar">
+      <element id="directory" name="META-INF">
+        <element id="file-copy" path="$PROJECT_DIR$/Flyweight-Balls-main/out/artifacts/META-INF/MANIFEST.MF" />
+      </element>
+      <element id="module-output" name="Flyweight-Balls" />
+      <element id="dir-copy" path="$PROJECT_DIR$/Flyweight-Balls-main/Balls-main/JavaTest/src/assets" />
+    </root>
+  </artifact>
+</component>

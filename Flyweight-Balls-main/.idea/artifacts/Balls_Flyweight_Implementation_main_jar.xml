@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Balls-Flyweight-Implementation-main:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/Balls_Flyweight_Implementation_main_jar</output-path>
+    <root id="archive" name="Balls-Flyweight-Implementation-main.jar">
+      <element id="module-output" name="Balls-Flyweight-Implementation-main" />
+    </root>
+  </artifact>
+</component>
