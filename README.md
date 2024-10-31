@@ -1,4 +1,4 @@
-#Flyweight Design Pattern Implementation
+# Flyweight Design Pattern Implementation
 - This project shows the difference of memory consumed between normal object generation and using the flyweight design pattern.
 - To see the comparison:
   - Open Task Manager (or similar applications but this tutorial is for Task Manager).
